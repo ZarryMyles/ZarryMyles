@@ -14,11 +14,6 @@
 
 ![Mahanth's github stats](https://github-readme-stats.vercel.app/api?username=ZarryMyles&show_icons=true&hide_border=true&theme=onedark)
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarryMyles&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
