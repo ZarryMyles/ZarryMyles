@@ -14,7 +14,7 @@
 
 ![Mahanth's github stats](https://github-readme-stats.vercel.app/api?username=ZarryMyles&show_icons=true&hide_border=true&theme=onedark)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jxd9gp9sg4ha6owy232p63znr&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=jxd9gp9sg4ha6owy232p63znr&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lr54osy6yng52y4ipfqix0vag&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=lr54osy6yng52y4ipfqix0vag&redirect=true)
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
