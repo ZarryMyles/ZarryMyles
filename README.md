@@ -23,7 +23,7 @@
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/mahantha-n/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/MahanthX) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/mahanth_n/)| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/mahanth2709) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mahanth2709@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|
 
-# 𝗠𝘆 𝗧𝗲ch 𝗦𝘁𝗮𝗰𝗸
+# 𝗠𝘆 𝗧𝗲ch 𝗦𝘁𝗮𝗰𝗸:
 
 <table>
   <tbody>
