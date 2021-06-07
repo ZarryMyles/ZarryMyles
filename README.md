@@ -1,11 +1,11 @@
 # MAHANTH N&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello, cruel world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="http://www.svcengg.com/"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>.  
-    <br>A budding <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> , an <b> UI Design      Enthusiast </b>, a <b>PotterHead</b> 🧙 and someone who is looking for a <b>platform</b> to grow and <b>excel</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    <br>A novice <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, a <b> UI Design      Enthusiast </b>📱, a <b>PotterHead</b> 🧙 and someone who is looking for a <b>platform</b> to grow and <b>excel</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
@@ -29,38 +29,38 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <span><b>React</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>HTML 5</b><span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <span><b>CSS 3</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span><b>Javascript</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗥𝗲𝗮𝗰𝘁<span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <span><b>Python</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+        <span><b>Tailwind</b><span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span><b>MongoDB</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span><b>Strapi</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/strapi-icon.svg">
       </td>
   </tbody>
 </table>
