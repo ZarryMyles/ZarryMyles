@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="http://www.svcengg.com/"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>.  
+    I am a 4th Year undergraduate from <a href="http://www.svcengg.com/"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>.  
     <br>An intermediate <b>Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, an <b> UI Design      Enthusiast </b>📱, a <b>PotterHead</b> 🧙 and someone who is looking for a <b>platform</b> to grow and <b>excel</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
