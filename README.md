@@ -1,31 +1,33 @@
 <div>
 <h1 align="center">Hi 👋, I'm Mahanth</h1>
-<h3 align="center">A passionate Web developer and UI/UX designer from India.</h3>
+<h3 align="center">A passionate Web developer and UI/UX designer from Bangalore, India.</h3>
   
-<p align="center">Visit me at <b><a href="https://mahanth.tech">mahanth.tech</a></b></p>
+<p align="center">Visit me at <b><a href="https://mahanth.dev">mahanth.dev</a></b></p>
 <p align="center">Ask me about <b>HTML/CSS, ReactJs, NextJs, UI/UX design, Graphic Design</b></p>
-<p align="center">Reach me at <b>mahanth2709@gmail.com</b></p>
+<p align="center">Reach me at <b>mahantha.dev@gmail.com</b></p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav4101" alt="rishav4101"/></a> </p> -->
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ZarryMyles" alt="zarrymyles" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mahanth-n/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahanth-n" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/mahanth-n/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='50'/></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zarrymyles&show_icons=true&locale=en&layout=compact" alt="zarrymyles" /></p>
+<p align="center"><img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=zarrymyles&show_icons=true&locale=en&layout=compact&theme=radical" alt="ZarryMyles" /></p>
 
 <div >
-<!-- <p style="display: flex;" display="flex" align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav4101&show_icons=true&locale=en" alt="rishav4101" /></p> -->
+<!-- <p style="display: flex;" display="flex" align="center" ><img align="center" src="https://readme-stats.clckblog.space/api?username=zarrymyles&show_icons=true&locale=en" alt="ZarryMyles" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zarrymyles" alt="rishav4101" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zarrymyles&theme=radical" alt="ZarryMyles" /></p>
 </div>
 <h3 align="center">Languages and Tools used:</h3>
-<p align="center"> 
+<p align="center">
+  <a href="https://www.blender.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="css3" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
@@ -37,6 +39,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+  <a href="https://graphql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="git" width="40" height="40"/> 
+  </a>
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
@@ -54,7 +59,10 @@
   </a> 
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
